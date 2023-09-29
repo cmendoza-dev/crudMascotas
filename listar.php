@@ -16,15 +16,15 @@ $mascotas = $sentencia->fetchAll(PDO::FETCH_OBJ);
 		<h1>Listar con arreglo</h1>
 		<a href="https://tecsup.instructure.com/courses/25788" target="_blank">Por Walter Moncada</a>
 		<br>
-		<div class="table-responsive">
+		<div class="table-responsive w-75">
 			<table class="table table-bordered">
 				<thead class="thead-dark">
 					<tr>
-						<th>ID</th>
-						<th>Nombre</th>
-						<th>Edad</th>
-						<th>Editar</th>
-						<th>Eliminar</th>
+						<th class="text-center">ID</th>
+						<th class="text-center">Nombre</th>
+						<th class="text-center">Edad</th>
+						<th class="text-center">Editar</th>
+						<th class="text-center">Eliminar</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -33,7 +33,7 @@ $mascotas = $sentencia->fetchAll(PDO::FETCH_OBJ);
 					-->
 					<?php foreach($mascotas as $mascota){ ?>
 						<tr>
-							<td><?php echo $mascota->id ?></td>
+							<td class="text-center"><?php echo $mascota->id ?></td>
 							<td><?php echo $mascota->nombre ?></td>
 							<td><?php echo $mascota->edad ?></td>
 							<td><a class="btn btn-warning" href="<?php echo "editar.php?id=" . $mascota->id?>">Editar 📝</a></td>
