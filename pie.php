@@ -9,19 +9,19 @@ Este archivo simplemente cierra las etiquetas abiertas en encabezado.php
     <div class="section">
         <ul>
             <li> <img src="images/friendly-pets.jpg" width="240" height="186" alt="">
-                <h2><a href="#"></a></h2>
+                <h2><a href="#">Friendly Pets</a></h2>
                 <p> Lorem ipsum dolor sit amet, consectetuer adepiscing elit, sed diam nonummy nib. <a class="more" href="#">Read More</a> </p>
             </li>
             <li> <img src="images/pet-lover2.jpg" width="240" height="186" alt="">
-                <h2><a href="#"></a></h2>
+                <h2><a href="#">How dangerous are they</a></h2>
                 <p> Lorem ipsum dolor sit amet, cons ectetuer adepis cing, sed diam euis. <a class="more" href="#">Read More</a> </p>
             </li>
             <li> <img src="images/healthy-dog.jpg" width="240" height="186" alt="">
-                <h2><a href="#"></a></h2>
+                <h2><a href="#">Keep them healthy</a></h2>
                 <p> Lorem ipsum dolor sit amet, consectetuer adepiscing elit, sed diam nonu mmy. <a class="more" href="#">Read More</a> </p>
             </li>
             <li>
-                <h2><a href="#"></a></h2>
+                <h2><a href="#">Love...love...love...pets</a></h2>
                 <p> Lorem ipsum dolor sit amet, consectetuer adepiscing elit, sed diameusim. <a class="more" href="#">Read More</a> </p>
                 <img src="images/pet-lover.jpg" width="240" height="186" alt="">
             </li>
