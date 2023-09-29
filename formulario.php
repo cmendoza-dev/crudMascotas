@@ -7,8 +7,8 @@ Este archivo muestra un formulario que se env√≠a a insertr.php, el cual guardar√
 <div class="row">
     <div class="col-12">
         <h1>Agregar</h1>
-        <div class="justify-content-center align-items-center">
-            <form action="insertar.php" method="POST" class="w-50 ">
+        <div class="">
+            <form action="insertar.php" method="POST" class="w-50 justify-content-center align-items-center">
                 <div class="form-group">
                     <label for="nombre">Nombre</label>
                     <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre de mascota" required>
