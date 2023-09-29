@@ -50,7 +50,7 @@ body {
 }
 #footer .section ul li p {
 	position:relative;
-	top:60px;
+	top:120px;
 	padding: 0 10px 0 15px;
 	z-index:10;
 	font-size:14px;
