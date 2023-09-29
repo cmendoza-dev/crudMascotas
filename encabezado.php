@@ -8,7 +8,7 @@
     <meta name="author" content="Odenfis">
     <title>PostgreSQL-PHP | Por Carlos Mendoza</title>
     <link href="./bootstrap.min.css" rel="stylesheet">
-    <link href="./style.css" rel="stylesheet">
+    <link href="./style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
