@@ -27,7 +27,7 @@ Este archivo simplemente cierra las etiquetas abiertas en encabezado.php
     </ul>
   </div>
   <div id="footnote">
-    <div class="section">Copyright &copy; 2012 <a href="#">Company Name</a> All rights reserved | Website Template By <a target="_blank" href="http://www.freewebsitetemplates.com/">freewebsitetemplates.com</a></div>
+    <div class="section">Copyright &copy; 2023 <a href="#">Pets</a> All rights reserved | Website Template By <a target="_blank" href="#">Carlos Mendoza</a></div>
   </div>
 </div>
 </body>
