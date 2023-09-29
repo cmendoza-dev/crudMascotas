@@ -5,7 +5,7 @@ Este archivo simplemente cierra las etiquetas abiertas en encabezado.php
 ?>
 
 </main>
-<div id="footer">
+<div class="mt-5" id="footer">
     <div class="section">
         <ul>
             <li> <img src="images/friendly-pets.jpg" width="240" height="186" alt="">
