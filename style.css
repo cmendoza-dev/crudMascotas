@@ -33,7 +33,6 @@ body {
 }
 #footer .section ul li h2 {
 	position:relative;
-	top:60px;
 	left:0;
 	z-index:10;
 	padding: 0 10px 0 15px;
