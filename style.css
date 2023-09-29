@@ -28,6 +28,7 @@ body {
 
 #footer .section ul li {
 	float: left;
+	margin-top: 20px;
 	width: 240px;
 	height: 190px;
 }
